@@ -1,5 +1,17 @@
-Tugas Kolaborasi Kelompok 3 Okupas Web Developer
+Tugas Kolaborasi Kelompok 3
 ==============================================
 
-Tugas ini dibuat untuk memenuhi tugas kolaborasi kelompok 3 Okupas Web Developer di kelas Web Developer.
+### Digital Marketing
+Eka Rossalina
+
+### Graphic Designer
+- Wafiq Nur Agniati
+- Septian Sheva
+
+### UI/UX Designer
+Dziyaa Annaufal
+
+### Web Developer
+- Putra Winly Octavianto
+- Faris Ramadhan
 
