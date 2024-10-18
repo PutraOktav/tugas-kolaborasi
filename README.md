@@ -1,6 +1,8 @@
 Tugas Kolaborasi Kelompok 3
 ==============================================
+Ketua Kelompok: Dziyaa Annaufal
 
+Anggota Kelompok:
 ### Digital Marketing
 Eka Rossalina
 
