@@ -16,7 +16,7 @@
         <div class="container mx-auto flex items-center justify-between">
             <div class="flex items-center space-x-4">
                 <div class="flex items-center">
-                    <img src="../assets/logo/LS-logo-master.png" alt="Luar Sekolah" class="h-14 w-auto">
+                    <img src="../assets/logo/LS-logo-master.png" alt="Luar Sekolah" class="h-12 w-auto">
                 </div>
 
                 <div class="dropdown relative">
